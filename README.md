@@ -8,9 +8,9 @@ no Reactjs. Para saber mais sobre React e os Hooks[Hooks](https://github.com/mat
 
 Essa aplicação faz uma busca de repositorios aqui do Github e exibe de uma forma visualmente legal.
 
-## Available Scripts
+## Testando Aplicação
 
-In the project directory, you can run:
+Para testar aplicação seguir os passos abaixo:
 
 ### `yarn start`
 
